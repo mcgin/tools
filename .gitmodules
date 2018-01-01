@@ -1,0 +1,3 @@
+[submodule "pass-gen"]
+	path = pass-gen
+	url = git@github.com:mcgin/pass-gen.git
